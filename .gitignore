@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+my_venv/
+env/
+ENV/
+.my_venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
+
+# PyCharm/VSCode settings
+.idea/
+.vscode/
+
+# Selenium browser drivers (if not managed via package manager)
+chromedriver
+chromedriver.exe
+
+# Database dumps or credentials (optional)
+*.db
+*.sql
+
+# Jupyter Notebooks (if not used)
+.ipynb_checkpoints/
+
+# pytest cache
+.pytest_cache/
+.cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# mypy
+.mypy_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Output files
+output/
+data/
